@@ -4,7 +4,7 @@
 <p>站长账号:test@test.com 通用密码:password</p>
 <p>ps:由于heroku在境外，所以访问较慢，并且免费用户不支持文件存储系统，所以更换头像和插入图片后无法持久保存，请仅在test用户上进行头像和图片测试操作。</p>
 
-<h3>项目安装步骤：</h3>
+项目安装步骤：
 1. git clone git@github.com:Foooiz/A-Project.git
 2. composer install
 3. cp .env.example .env，并配置相应参数
