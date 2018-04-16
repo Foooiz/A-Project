@@ -1,10 +1,10 @@
 <p>环境：php7.0</p>
 
-[Demo地址](http://a-foo.herokuapp.com/)
+<h2>[Demo地址](http://a-foo.herokuapp.com/)<h2>
 <p>站长账号:test@test.com 通用密码:password</p>
 <p>ps:由于heroku在境外，所以访问较慢，并且免费用户不支持文件存储系统，所以更换头像和插入图片后无法持久保存，请仅在test用户上进行头像和图片测试操作。</p>
 
-项目安装步骤：
+<h1>项目安装步骤：</h1>
 1. git clone git@github.com:Foooiz/A-Project.git
 2. composer install
 3. cp .env.example .env，并配置相应参数
@@ -12,7 +12,7 @@
 5. php artisan migrate --seed
 6. php artisan queue:work 或 php artisan horizon
 
-功能：
+<h2>功能：</h2>
 - 多角色用户权限：站长，管理员，普通用户
 - 后台管理系统，登录站长或管理员账号右上角下拉菜单进入
 - 使用redis缓存边栏活跃用户，并使用任务调度进行一小时一次的更新
