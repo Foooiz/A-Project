@@ -12,7 +12,8 @@
 5. php artisan migrate --seed
 6. php artisan queue:work 或 php artisan horizon
 
-<h3>功能：</h3>
+
+功能：
 - 多角色用户权限：站长，管理员，普通用户
 - 后台管理系统，登录站长或管理员账号右上角下拉菜单进入
 - 使用redis缓存边栏活跃用户，并使用任务调度进行一小时一次的更新
