@@ -32,5 +32,7 @@
 <p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/20182.png"></p>
 <h3>用户中心</h3>
 <p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/20183.png"></p>
+<h3>未读消息</h3>
+<p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/20185.png"></p>
 <h3>后台管理</h3>
 <p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/20184.png"></p>
