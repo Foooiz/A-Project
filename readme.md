@@ -27,7 +27,7 @@
 
 项目主要页面介绍
 <h3>首页</h3>
-<p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/20181.png"></p>
+<p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/20180.png"></p>
 <h3>帖子</h3>
 <p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/20182.png"></p>
 <h3>用户中心</h3>
