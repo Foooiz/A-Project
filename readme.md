@@ -25,12 +25,12 @@
 - 对每个模块使用RESTful设计风格增加了API接口，其中集成了手机验证注册/微信第三方登录
 
 
-项目页面介绍
-<h3>首页</h3>
+项目主要页面介绍
+首页
 <p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/20181.png"></p>
-<h3>帖子</h3>
+帖子
 <p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/20182.png"></p>
-<h3>用户中心</h3>
+用户中心
 <p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/20183.png"></p>
-<h3>后台管理</h3>
+后台管理
 <p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/20184.png"></p>
