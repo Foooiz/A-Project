@@ -23,3 +23,14 @@
 - 使用redis缓存边栏活跃用户，并使用任务调度进行一小时一次的更新
 - 后台管理系统，登录站长或管理员账号右上角下拉菜单进入
 - 对每个模块使用RESTful设计风格增加了API接口，其中集成了手机验证注册/微信第三方登录
+
+
+项目页面介绍
+<h3>首页</h3>
+<p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/20181.png"></p>
+<h3>帖子</h3>
+<p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/20182.png"></p>
+<h3>用户中心</h3>
+<p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/20183.png"></p>
+<h3>后台管理</h3>
+<p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/20184.png"></p>
