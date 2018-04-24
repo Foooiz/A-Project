@@ -35,4 +35,4 @@
 <h3>未读消息</h3>
 <p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/201815-min.png"></p>
 <h3>后台管理</h3>
-<p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/201814-min.png"></p>
+<p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/201816-min.png"></p>
