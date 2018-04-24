@@ -29,10 +29,10 @@
 <h3>首页</h3>
 <p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/20180.png"></p>
 <h3>帖子</h3>
-<img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/201812.png">
+<img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/201812-min.png">
 <h3>用户中心</h3>
-<p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/201813.png"></p>
+<p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/201813-min.png"></p>
 <h3>未读消息</h3>
-<p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/201815.png"></p>
+<p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/201815-min.png"></p>
 <h3>后台管理</h3>
-<p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/201814.png"></p>
+<p><img src="https://pic-1256191933.cos.ap-chengdu.myqcloud.com/201814-min.png"></p>
